@@ -10,7 +10,7 @@ spring:
         implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
 server:
-  port: 8000
+  port: 10000
 eureka:
   client:
     service-url:
